@@ -3,7 +3,7 @@
 A beautiful, responsive shopping application built with **React**, **Vite**, **Context API**, and **React Router DOM**.  
 Features include authentication, product listings, add to cart, and a sleek toast notification system.
 
-Live Demo 🚀: [Click Here to Visit][https://newshoppingwebsite.netlify.app/login]
+Live Demo 🚀: [Click Here to Visit](newshoppingwebsite.netlify.app)
 
 ---
 
