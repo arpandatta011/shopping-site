@@ -13,7 +13,6 @@ Live Demo 🚀: [Click Here to Visit](newshoppingwebsite.netlify.app)
 - 🛍️ **Product Listing & Details**
 - 🛒 **Add to Cart with Toast Notifications**
 - 💙 Stylish UI with smooth interactions
-- 🌙 **Dark mode ready** (optional improvement!)
 - ⚡ Built with **Vite** for ultra-fast performance
 - 📱 Fully **Responsive Design**
 
